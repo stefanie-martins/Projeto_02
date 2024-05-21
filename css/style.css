@@ -68,3 +68,29 @@ header li a{
     margin-top: 10px;
 
  }
+
+ section.sessao1{
+    width:100%;
+    background-color: #472562;
+    padding:20px 2
+ }
+
+ .texto-sessao1{
+    float: left;
+    color: white;
+ }
+
+ .texto-sessao1 h2{
+    font-weight: 300;
+ }
+
+ .texto-sessao1 p{
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 20px;
+ }
+
+ .texto-sessao1 ul{
+    font-size: 13px;
+    list-style-position: inside;
+ }
