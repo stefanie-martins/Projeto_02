@@ -133,3 +133,33 @@ header li a{
     background-size: 100% 100%;
     background-repeat: no-repeat;
  }
+
+ @media screen and (max-width: 768px){
+   section.sessao1{
+      padding: 40px 2%;
+      height: auto;
+      text-align: center;
+   }
+   .texto-sessao1{
+      width: 100%;
+      margin-top: 0;
+      padding-left: 0;
+      position: static;
+      float: none;
+      display: inline-block;
+   }
+   .texto-sessao1 ul{
+      display: inline-block;
+      margin-top: 20px;
+   }
+   .texto-sessao1 ul li{
+      float: none;
+      text-align: left;
+   }
+   .btn1-texto{
+      display: inline-block;
+   }
+   .device-sessao1{
+      display: none;
+   }
+ }
